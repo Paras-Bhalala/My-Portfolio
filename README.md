@@ -3,7 +3,7 @@
 
 A modern, responsive portfolio website built to showcase my projects, skills, and professional journey.
 
-**Live Demo:** [👉 View My Portfolio](https://Paras-Bhalala.github.io/my-portfolio/)
+**Live Demo:** [👉 View My Portfolio](https://Paras-Bhalala.github.io/My-Portfolio/)
 
 ---
 
